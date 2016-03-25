@@ -60,7 +60,8 @@ a {
   background-image: linear-gradient(120deg, #155799, #e5c400); }
 
 .under-construction {
-  text-align: center; }
+  text-align: center;
+  padding: 5rem 6rem; } }
   
 @media screen and (min-width: 64em) {
   .page-header {
