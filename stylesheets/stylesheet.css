@@ -76,6 +76,14 @@ header h1 {
   letter-spacing: -1px;
 }
 
+header h1 activ {
+  color: #003399;
+}
+
+header h1 coop {
+  color: #e6e600;
+}
+
 header h2 {
   font-size: 24px;
   font-weight: normal;
@@ -98,6 +106,10 @@ header h2 {
   max-width: 100%;
 }
 
+.under-construction {
+  text-align: center;
+  padding: 1rem 1rem; }
+  
 #downloads {
   margin-bottom: 40px;
 }
